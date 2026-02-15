@@ -1,0 +1,3 @@
+[submodule "DemoCode"]
+	path = DemoCode
+	url = https://github.com/FreakStudioCN/elegance-devkit-v1_DemoCode.git
