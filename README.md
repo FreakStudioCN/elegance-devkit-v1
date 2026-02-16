@@ -1,6 +1,28 @@
+# 风雅一号板开发套件 (Elegance-Devkit v1)
+
+
+本仓库为风雅一号板提供完整的开发支持，包含示例代码、文档、固件和硬件设计文件。以下是仓库的目录结构及各部分内容说明：
+
+```text
+elegance-devkit-v1/
+├── .git/                  # Git版本控制目录
+├── .idea/                  # IDE配置文件目录
+├── DemoCode/               # 功能演示代码
+├── docs/                   # 项目文档与图片资源
+├── firmware/               # 板卡固件文件（UF2格式）
+├── hardware/               # 硬件设计文件（EasyEDA工程）
+├── quick-tester/           # 快速测试器相关仓库
+│   ├── code/               # 快速测试器代码
+│   ├── docs/               # 快速测试器文档
+│   ├── firmware/           # 快速测试器专用固件
+│   └── hardware/           # 快速测试器相关硬件设计
+├── .gitmodules             # Git子模块配置
+└── README.md               # 项目说明文档
+```
+
 # MicroPython 开始，玩转树莓派 Pico 单片机/风雅一号板（MicroPython 教学开发板）产品介绍
 
-欢迎来到《MicroPython 开始，玩转树莓派 Pico 单片机》教程 Wiki！
+欢迎来到[**《MicroPython 开始，玩转树莓派 Pico 单片机》**](https://f1829ryac0m.feishu.cn/wiki/Vj3fwIc1EiNI8Fkm9Vxc4QEZnKb?fromScene=spaceOverview)教程 Wiki！https://f1829ryac0m.feishu.cn/wiki/Vj3fwIc1EiNI8Fkm9Vxc4QEZnKb?fromScene=spaceOverview
 
 这是一份**从 “零基础入门” 到 “综合实战”的树莓派 Pico 单片机教程 —— 我们用 MicroPython** 作为开发语言，帮你跳过复杂的底层编译，直接聚焦 “硬件交互 + 功能实现”，轻松上手这款轻量、灵活的单片机。
 
