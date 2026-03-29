@@ -82,6 +82,9 @@ elegance-devkit-v1/
 
 ## 0.2 面向对象
 
+<img width="834" height="126" alt="image" src="https://github.com/user-attachments/assets/f457d43a-6948-4982-9d5d-69d498e5d8d4" />
+
+
 ## 0.3 为什么选择 MicroPython + 风雅一号板
 
 ### 0.3.1 为什么是 MicroPython（mpy）
@@ -118,6 +121,9 @@ elegance-devkit-v1/
 ### 0.3.2 为什么是风雅一号板/选择我们
 
 ![](docs/XnGvb6WGNoDd9hxeQz9cscKvnde.png)
+
+<img width="696" height="627" alt="image" src="https://github.com/user-attachments/assets/84a1e34b-1a7a-409f-b1dc-3b2705c33a22" />
+
 
 # 一、风雅一号板介绍与发货配件
 
@@ -382,6 +388,9 @@ elegance-devkit-v1/
 | GP17                     | SPI0-CSn          | 外部以太网 W5500 芯片-CS   |
 | GP16                     | SPI0-RX           | 外部以太网 W5500 芯片-MISO |
 
+<img width="692" height="318" alt="image" src="https://github.com/user-attachments/assets/ba7f1c98-30ee-4d6d-a0c7-afba6e2b1e93" />
+
+
 # 二、能学到什么？
 
 - 基础能力层：
@@ -404,32 +413,73 @@ elegance-devkit-v1/
   - 学会第三方库发布流程、uPyPI 包管理方法
 
 ## 2.1 树莓派 Pico & RP2040 核心信息概要
+<img width="825" height="882" alt="image" src="https://github.com/user-attachments/assets/5a5a7c5c-344b-4997-b709-f22f10d5eb51" />
+
 
 ## 2.2 MicroPython 语言简述
 
+<img width="818" height="1208" alt="image" src="https://github.com/user-attachments/assets/62fb2982-0917-4d02-bc82-0bba5094d9f5" />
+
+
 ## 2.3 MicroPython 开发环境搭建
+
+<img width="813" height="449" alt="image" src="https://github.com/user-attachments/assets/72056fb2-4503-4913-a862-f2f71f7bcef5" />
 
 ## 2.4 REPL 交互式解释器的使用
 
+<img width="813" height="414" alt="image" src="https://github.com/user-attachments/assets/a3a4ee90-6ae2-4a1e-9783-e8bbf7fca073" />
+
+
 ## 2.5 单片机外设的基本原理和树莓派 Pico 对应寄存器介绍
+<img width="804" height="1137" alt="image" src="https://github.com/user-attachments/assets/dab1396b-bd23-4af0-9474-be54f29943b4" />
+
+<img width="804" height="999" alt="image" src="https://github.com/user-attachments/assets/a5636eca-4b5a-4f04-9134-23b73a4a4abc" />
+
 
 ## 2.6 MicroPython 控制对应外设的相关方法和相关工具软件使用
 
+<img width="810" height="1205" alt="image" src="https://github.com/user-attachments/assets/c113170b-6ab8-4cb2-a8c9-790800fbf29e" />
+
+
 ## 2.7 相关应用实验
+
+<img width="804" height="1455" alt="image" src="https://github.com/user-attachments/assets/24d693e8-fc83-427a-953d-9f07b18e0bb2" />
+
 
 ## 2.8 通信协议和组件库部分
 
+
+
 ### 2.8.1 以太网通信协议
+
+<img width="803" height="924" alt="image" src="https://github.com/user-attachments/assets/f8577d5f-123b-4f31-934d-1f5cacffd571" />
 
 ### 2.8.2 ulab 科学计算
 
+<img width="804" height="1158" alt="image" src="https://github.com/user-attachments/assets/12a5c51f-86a2-4d4d-b318-572938d75647" />
+
+<img width="801" height="1326" alt="image" src="https://github.com/user-attachments/assets/05f51332-1c6e-4b75-919e-57848873f1e5" />
+
+
 ### 2.8.3 文件系统与相关操作
+
+<img width="798" height="963" alt="image" src="https://github.com/user-attachments/assets/cdbf5f62-326e-4b40-9f5f-e4b104bf7cb8" />
+
 
 ### 2.8.4 图形化 GUI
 
+<img width="789" height="825" alt="image" src="https://github.com/user-attachments/assets/797415df-94f8-4f6a-a049-bcca531b06e1" />
+
+
 ### 2.8.5 uShell 命令行
 
+<img width="807" height="570" alt="image" src="https://github.com/user-attachments/assets/af779d69-9144-42db-a204-76d00d8a1abc" />
+
+
 ### 2.8.6 uMial 邮件发送 SMTP
+
+<img width="795" height="339" alt="image" src="https://github.com/user-attachments/assets/32b05a74-b4a4-4b6b-8abe-235dabe3d4e0" />
+
 
 # 三、有什么教学资料？
 
@@ -460,6 +510,11 @@ elegance-devkit-v1/
 ![](docs/Zo1TbCjBioyzgbxu815cRbSbnEb.png)
 
 **部分模块汇总如下，持续更新中：**
+
+<img width="831" height="1425" alt="image" src="https://github.com/user-attachments/assets/a132bd4b-47ae-4ef0-bffe-5f00fcabaa52" />
+
+<img width="831" height="756" alt="image" src="https://github.com/user-attachments/assets/a6790a5f-3ca2-4804-ab2a-49b79ec39bfb" />
+
 
 ## 3.3 快速原型扩展板与教学案例库
 
@@ -502,6 +557,11 @@ elegance-devkit-v1/
 
 - 面向对象教程结合嵌入式传感器项目案例深化理解；
 - 并行计算教程聚焦嵌入式场景下的并发性能优化
+
+<img width="801" height="1275" alt="image" src="https://github.com/user-attachments/assets/bab8bad9-9718-47e7-a0f9-3c5807ce0551" />
+
+<img width="813" height="573" alt="image" src="https://github.com/user-attachments/assets/c6b9be94-a0c9-45b5-b7ab-74771b42ebd1" />
+
 
 不仅帮你建立可复用的知识体系，更能直接支撑硬件项目的二次开发需求。
 
